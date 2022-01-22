@@ -1,0 +1,19 @@
+.panda-bg-primary{
+    background-color: #fceae8;
+}
+.panda-bg-warning{
+    background-color: #ffa500;
+}
+.panda-bg-success{
+    background-color: #da70d6;
+}
+.panda-primary{
+background-color: #0000ff;
+}
+.buy-now{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%); 
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+}
